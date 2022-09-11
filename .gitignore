@@ -1,0 +1,14 @@
+# Default ignored files
+.shelf
+.workspace
+# Editor-based HTTP Client requests
+.httpRequests
+# Datasource local storage ignored files
+.dataSources
+.dataSources.local.xml
+.comliper
+.idea
+.target/
+
+# Project exclude paths
+/target/
